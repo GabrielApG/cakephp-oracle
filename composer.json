@@ -1,0 +1,12 @@
+{
+    "name": "gabrielapg/cakephp-oracle",
+    "description": "Package for connection package for connecting to Oracle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Goncalves",
+            "email": "gabrielstigma@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
